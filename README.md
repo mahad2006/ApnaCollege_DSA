@@ -1,3 +1,3 @@
 # ApnaCollege_DSA
 Testing Something
-Author - Mahad
+Author - Shaikh Mahad
